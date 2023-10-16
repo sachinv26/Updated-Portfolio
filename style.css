@@ -42,7 +42,7 @@ header {
 }
 
 nav {
-    background-color : linear-gradient(to top, #4776e6 0%, #8e54e9 74%);
+    background-color : linear-gradient(to top, #4776e6 50%, #8e54e9 74%);
     position: absolute;
     z-index: 3;
     position: fixed;
